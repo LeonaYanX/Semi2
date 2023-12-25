@@ -89,6 +89,33 @@
 // {
 //     Console.WriteLine("Третьей цифры нет");
 // }
+// new task 
+// Напишите программу, которая выводит третью с yfxfkd
+// цифру заданного числа или сообщает, что третьей цифры
+// нет.
+// 456 => 6
+// 7812 => 8
+// 91 => Третьей цифры нет
+// 54678  6
+// 45678908    9
+
+// System.Console.WriteLine("Введите число");
+// int num = Convert.ToInt32(Console.ReadLine());
+
+// if(num>99)     //    && -и     || - или
+// {
+//     while(num>=1000)
+//     {
+//         num = num/10;
+//     }
+//     int result = num %10;
+
+//     Console.WriteLine(result);
+// }
+// else
+// {
+//     Console.WriteLine("Третьей цифры нет");
+// }
 
 
 
